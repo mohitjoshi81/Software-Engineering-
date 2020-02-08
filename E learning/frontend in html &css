@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MOHIT CREATION</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<header>
+<div class="main">
+<ul>
+<li><a href="index2.html"><button>Home</button></a></li>
+<li><a href="#">services</a></li>
+<li><a href="#">gallery</a></li>
+<li><a href="#">about</a></li>
+<li><a href="#">contect</a></li>
+</ul>
+</div>
+<div class="title">
+	<h1>M F P CREATIONS</h1>
+	</div>
+	<div class:"button">
+		<a href="#" class="btn1">WAITCH VIDEO</a>
+		<a href="#" class="btn2">LEARM MORE</a>
+		
+	</div>
+
+</header>
+</body>
+</html>
